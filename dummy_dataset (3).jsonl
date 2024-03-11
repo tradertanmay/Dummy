@@ -1,0 +1,20 @@
+{"input_text": "How to create a list in Python?", "output_text": "Use square brackets: my_list = [1, 2, 3]"}
+{"input_text": "How to iterate over a dictionary in Python?", "output_text": "Use a for loop: for key, value in my_dict.items()"}
+{"input_text": "How do you check the Python version?", "output_text": "Use the command line: python --version"}
+{"input_text": "How to concatenate two lists in Python?", "output_text": "Use the + operator: combined_list = list1 + list2"}
+{"input_text": "How to sort a list in Python?", "output_text": "Use the sorted() function or .sort() method."}
+{"input_text": "How to reverse a string in Python?", "output_text": "Use slicing: reversed_string = my_string[::-1]"}
+{"input_text": "What is a tuple in Python?", "output_text": "A tuple is an immutable sequence type."}
+{"input_text": "How to catch exceptions in Python?", "output_text": "Use try-except blocks."}
+{"input_text": "How to read a file in Python?", "output_text": "Use the open() function with the 'r' mode."}
+{"input_text": "How to write to a file in Python?", "output_text": "Use the open() function with the 'w' mode."}
+{"input_text": "What is list comprehension?", "output_text": "A concise way to create lists based on existing lists."}
+{"input_text": "How to check if a key exists in a dictionary?", "output_text": "Use the in keyword: if 'key' in my_dict"}
+{"input_text": "How to remove an item from a list?", "output_text": "Use the .remove(item) method or del statement."}
+{"input_text": "What does the 'self' keyword do?", "output_text": "Refers to the instance of the class in method definitions."}
+{"input_text": "How to generate random numbers in Python?", "output_text": "Use the random module, for example, random.randint(a, b)"}
+{"input_text": "What is a lambda function?", "output_text": "An anonymous function defined with the lambda keyword."}
+{"input_text": "How to concatenate strings in Python?", "output_text": "Use the + operator or the .join() method for iterables."}
+{"input_text": "How to find the length of a list in Python?", "output_text": "Use the len() function."}
+{"input_text": "What is a class in Python?", "output_text": "A blueprint for creating user-defined objects."}
+{"input_text": "How to create a dictionary in Python?", "output_text": "Use curly braces: my_dict = {'key': 'value'}"}
